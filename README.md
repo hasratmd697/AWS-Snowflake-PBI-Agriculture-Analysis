@@ -89,8 +89,6 @@ aws-snowflake-powerbi-project/
 
 ## Screenshots
 
-![Screenshot 2025-04-28 115459](https://github.com/user-attachments/assets/3d6b81ff-ae5f-44a7-877f-5fdb86124782)
-
 ![Screenshot 2025-04-28 121942](https://github.com/user-attachments/assets/1a430775-e0fe-4e32-a391-67118aa06383)
 
 ![Screenshot 2025-04-28 121952](https://github.com/user-attachments/assets/8e40c390-6c2b-4987-9374-4c63aa7f04b6)
