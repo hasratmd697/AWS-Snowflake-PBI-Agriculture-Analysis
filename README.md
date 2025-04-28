@@ -1,4 +1,4 @@
-# AWS + Snowflake + Power BI Agriculture Project
+# AWS + Snowflake + Power BI Agriculture Analysis
 
 ## Project Overview
 This project demonstrates the complete data pipeline and analysis workflow using **Amazon S3**, **Snowflake Data Warehouse**, and **Power BI**.  
